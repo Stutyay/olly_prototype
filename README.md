@@ -5,7 +5,7 @@ This repository contains a frontend prototype built for the Reelo Product Intern
 ## 🔗 Key Links
 * **Live Prototype:** [Insert your Vercel Link Here]
 * **Product Brief:** [Insert your Notion Link Here]
-* **Video Walkthrough:** [https://www.loom.com/share/fe2abe2423f046ebbcc858752bd53019] 
+* **Video Walkthrough:** [Watch the 3-minute demo here](https://www.loom.com/share/fe2abe2423f046ebbcc858752bd53019) 
 
 ## 💡 The Solution
 1. **Confidence-Based Batching:** A "Fast Track" UI to bulk-approve high-confidence AI responses (e.g., standard 5-star reviews) in a single click.
