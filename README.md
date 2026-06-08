@@ -4,7 +4,7 @@ This repository contains a frontend prototype built for the Reelo Product Intern
 
 ## 🔗 Key Links
 * **Live Prototype:** [Working Prototype](https://olly-prototype-sage.vercel.app/)
-* **Product Brief:** [Insert your Notion Link Here]
+* **Product Brief:** [Notion](https://app.notion.com/p/Product-Brief-Olly-Auto-Response-UX-Redesign-379b4ef90a98808aa84cdcb60331f10b?source=copy_link)
 * **Video Walkthrough:** [Watch the 3-minute demo here](https://www.loom.com/share/fe2abe2423f046ebbcc858752bd53019) 
 
 ## 💡 The Solution
