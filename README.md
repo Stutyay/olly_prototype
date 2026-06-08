@@ -3,7 +3,7 @@
 This repository contains a frontend prototype built for the Reelo Product Intern assignment. It reimagines the "Setup Auto-Response" flow to balance AI automation speed with precise user control.
 
 ## 🔗 Key Links
-* **Live Prototype:** [Insert your Vercel Link Here]
+* **Live Prototype:** [Working Prototype](https://olly-prototype-sage.vercel.app/)
 * **Product Brief:** [Insert your Notion Link Here]
 * **Video Walkthrough:** [Watch the 3-minute demo here](https://www.loom.com/share/fe2abe2423f046ebbcc858752bd53019) 
 
